@@ -9,6 +9,8 @@ export default function Home() {
       <h1>
         <Link to="/treehouse" className={styles.enter}>
           Enter Treehouse
+
+          I am working on it! I will have it done by the end of this week!
         </Link>
       </h1>
       <Link to="/treehouse/members">
